@@ -1,0 +1,1 @@
+main = plainText <| (\s -> s ++ show s) "main = plainText <| (\\s -> s ++ show s) "
